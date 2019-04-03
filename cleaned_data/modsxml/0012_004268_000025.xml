@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_004268_000025</identifier>
+   <identifier type="circular">Circular 52</identifier>
+   <titleInfo>
+      <title>Panel discussion: livable living rooms</title>
+   </titleInfo>
+   <abstract>Special circular documenting a discussion on the best ways to decorate and arrange a living room. Topics covered include rugs, floors, walls, and furniture. Text ends with a poem.</abstract>
+   <physicalDescription>
+      <form authority="aat">newsletters</form>
+      <extent>10 pages</extent>
+   </physicalDescription>
+   <originInfo>
+      <dateIssued>1937</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1937</dateIssued>
+      <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <issuance>serial</issuance>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85067272">
+      <topic>Interior decoration</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99005705">
+      <topic>Dwellings</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85077818">
+      <topic>Living rooms</topic>
+   </subject>
+   <classification authority="lcc">S115. S3743</classification>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Extension Special Circulars</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+</mods>

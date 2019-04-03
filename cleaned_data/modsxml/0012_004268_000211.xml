@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_004268_000211</identifier>
+   <identifier type="circular">Circular 394</identifier>
+   <titleInfo>
+      <title>Insecticides, fungicides, and herbicides list</title>
+   </titleInfo>
+   <abstract>Special circular on</abstract>
+   <physicalDescription>
+      <form authority="aat">newsletters</form>
+      <extent>15 pages</extent>
+   </physicalDescription>
+   <originInfo>
+      <dateIssued>1940-1968</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1940-1968</dateIssued>
+      <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <issuance>serial</issuance>
+   </originInfo>
+   <classification authority="lcc">S115. S3743</classification>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Extension Special Circulars</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+</mods>
