@@ -14,8 +14,8 @@
 ```
 <mods>
 <identifier type="local">{{cells["adminDB"].value}}</identifier>
-{{if(isBlank(cells['number'].value), '', '<identifier type="circular">' + cells['number'].value + '</identifier>')}}
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo> 
+{{if(isBlank(cells['number'].value), '', '<part>' + cells['number'].value + '</part>')}}
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 <physicalDescription><form authority="aat">{{cells['form'].value}}</form>
 {{if(isBlank(cells['form2'].value), '', '<form authority="aat">' + cells['form2'].value + '</form>')}}
