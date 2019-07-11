@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_004268_000087</identifier>
+   <identifier type="issn">2687-7325</identifier>
+   <identifier type="circular">123</identifier>
+   <identifier type="pid">agrutesc:1728</identifier>
+   <titleInfo>
+      <title>Purebred swine breeders in Tennessee</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>University of Tennessee Extension Special Circular 123</title>
+   </titleInfo>
+   <abstract>Special circular presenting a list of swinebreeders in Tennessee, including their locations and herd count. </abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>16 pages</extent>
+   </physicalDescription>
+   <originInfo>
+      <dateIssued>1940</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1940-03</dateIssued>
+      <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <issuance>serial</issuance>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85131251">
+      <topic>Swine breeders--Directories</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <classification authority="lcc">S115. S3743</classification>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Extension Special Circulars</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
