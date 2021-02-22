@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_004268_000226</identifier>
+   <identifier type="local">0012_004268_000165</identifier>
    <identifier type="issn">2687-7325</identifier>
+   <identifier type="circular">285</identifier>
+   <identifier type="pid">agrutesc:878</identifier>
    <titleInfo>
-      <title>Where to insulate</title>
+      <title>Sewing cabinet</title>
    </titleInfo>
    <titleInfo type="alternative">
-      <title>University of Tennessee Extension </title>
+      <title>University of Tennessee Extension Special Circular 285</title>
    </titleInfo>
-   <abstract>Document presenting guidelines on properly insulating the roof space of a home.</abstract>
+   <abstract>Special circular on constructing a cabinet perfect for sewing materials.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300343615">architectural documents</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
       <extent>2 pages</extent>
    </physicalDescription>
@@ -31,18 +34,17 @@
       </place>
       <issuance>serial</issuance>
    </originInfo>
-   <note>Physical copy moderately damaged.</note>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85147933">
-      <topic>Wooden-frame houses--Insulation</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85015114">
+      <topic>Blueprints</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85040198">
-      <topic>Dwellings--Energy conservation</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85062549">
+      <topic>House furnishings</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85066793">
-      <topic>Insulation (Heat)</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85120543">
+      <topic>Sewing--Equipment and supplies</topic>
    </subject>
    <classification authority="lcc">S115. S3743</classification>
    <typeOfResource>text</typeOfResource>
@@ -61,5 +63,5 @@
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+                    xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
 </mods>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_004268_000162</identifier>
    <identifier type="issn">2687-7325</identifier>
@@ -14,7 +14,7 @@
    <titleInfo type="alternative">
       <title>University of Tennessee Extension Special Circular 276</title>
    </titleInfo>
-   <abstract>Special circular on how to construct a simple wood box for use in a kitchen alongside a wood burning stove. Allows for easy removal of dirt and wood chips. </abstract>
+   <abstract>Special circular on how to construct a simple wood box for use in a kitchen alongside a wood burning stove. Allows for easy removal of dirt and wood chips.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300343615">architectural documents</form>
@@ -41,7 +41,7 @@
    <classification authority="lcc">S115. S3743</classification>
    <typeOfResource>text</typeOfResource>
    <language>
-      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -55,5 +55,5 @@
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+                    xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
 </mods>

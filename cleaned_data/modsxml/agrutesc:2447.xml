@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_004268_000223</identifier>
+   <identifier type="local">0012_004268_000220</identifier>
    <identifier type="issn">2687-7325</identifier>
-   <identifier type="circular">200</identifier>
+   <identifier type="circular">177</identifier>
    <titleInfo>
-      <title>Outdoor electric brooder</title>
+      <title>Flat-bottom hog trough and hog hayrack</title>
    </titleInfo>
    <titleInfo type="alternative">
-      <title>University of Tennessee Extension Special Circular 200</title>
+      <title>University of Tennessee Extension Special Circular 177</title>
    </titleInfo>
-   <abstract>Special circular presenting guidelines regarding brooding chicks using an electric brooder. Includes construction, electric heating assembly, operation, a bill of materials, and designs. </abstract>
-   <name type="personal">
-      <namePart>Johns, M. M.</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
-      </role>
-   </name>
-   <name type="personal">
-      <namePart>Falkner, Max H.</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
-      </role>
-   </name>
+   <abstract>Special circular presenting designs for a pig feeding trough and hay feeding rack.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300343615">architectural documents</form>
@@ -35,8 +21,12 @@
       <extent>2 pages</extent>
    </physicalDescription>
    <originInfo>
-      <dateIssued>1943</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1943-12</dateIssued>
+      <dateIssued qualifier="inferred">1925-1968</dateIssued>
+      <dateIssued qualifier="inferred"
+                  encoding="edtf"
+                  keyDate="yes"
+                  point="start">1925</dateIssued>
+      <dateIssued qualifier="inferred" encoding="edtf" keyDate="yes" point="end">1968</dateIssued>
       <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
@@ -48,16 +38,8 @@
       <topic>Blueprints</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85105900">
-      <topic>Poultry--Hatcheries</topic>
-   </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85064807">
-      <topic>Incubators</topic>
-   </subject>
-   <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n79060965">
-      <geographic>Tennessee</geographic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85131241">
+      <topic>Swine--Feeding and feeds</topic>
    </subject>
    <classification authority="lcc">S115. S3743</classification>
    <typeOfResource>text</typeOfResource>
@@ -76,5 +58,5 @@
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+                    xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
 </mods>
